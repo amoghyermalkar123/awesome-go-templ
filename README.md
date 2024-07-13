@@ -1,4 +1,4 @@
-## Curated List of resources related to Go's templating library - https://github.com/a-h/templ
+## Curated List of resources related to Templ - https://github.com/a-h/templ
 
 
 ### Frameworks And Libraries -
